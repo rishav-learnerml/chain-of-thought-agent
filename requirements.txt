@@ -3,4 +3,10 @@ langchain-community
 langchain-core
 python-dotenv
 langchain_groq
-
+pypdf
+langchain_huggingface
+sentence-transformers
+qdrant-client
+rq
+fastapi
+uvicorn
