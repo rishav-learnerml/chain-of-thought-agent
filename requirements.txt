@@ -1,4 +1,5 @@
 langchain
+langgraph
 langchain-community
 langchain-core
 python-dotenv
